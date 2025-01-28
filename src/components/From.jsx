@@ -177,7 +177,7 @@ const Form = () => {
           transition={{ delay: 0.6, duration: 0.5 }}
           className="text-4xl font-bold text-center mb-8 text-blue-600"
         >
-          New Agent Info
+          New Employee Info
         </motion.h2>
 
         <form onSubmit={handleSubmit} className="space-y-6">
